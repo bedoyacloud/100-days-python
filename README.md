@@ -1,2 +1,2 @@
-# 100-days-python
+# 100-days-Python
 Practice will make you a Master!!!
